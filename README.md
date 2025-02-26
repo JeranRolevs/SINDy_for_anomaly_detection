@@ -1,6 +1,6 @@
 # Anomaly Detection in Lorenz System using SINDy
 
-This repository demonstrates how to use **Sparse Identification of Nonlinear Dynamics (SINDy)** for anomaly detection in time series data. We showcase this approach using the classic Lorenz system—a well-known model in fluid dynamics and chaos theory.
+This repository demonstrates how to use **Sparse Identification of Nonlinear Dynamics (SINDy)** for anomaly detection in time series data. It showcases this approach using the classic Lorenz system—a well-known model in fluid dynamics and chaos theory.
 
 This notebook will:
 
